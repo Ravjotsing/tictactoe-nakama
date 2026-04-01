@@ -1,0 +1,10 @@
+{
+  "name": "tictactoe-nakama-backend",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "npx tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

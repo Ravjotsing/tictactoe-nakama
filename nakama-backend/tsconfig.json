@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["es2015", "es2015.promise"],
+    "strict": false,
+    "noImplicitAny": false,
+    "outDir": "./data/modules",
+    "rootDir": "./data/modules",
+    "declaration": false
+  },
+  "include": ["./data/modules/**/*.ts"],
+  "exclude": ["node_modules"]
+}
